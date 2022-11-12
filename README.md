@@ -23,6 +23,8 @@ This project is covered under MIT license.
 
 [Visit the deployed Progressive Web Application](https://serene-headland-70496.herokuapp.com/)
 
+![Screenshot 2022-11-11 at 8 56 13 PM](https://user-images.githubusercontent.com/106997623/201453390-eb1358a1-5e4c-4a15-a6f4-842ca12a7a8c.png)
+
 This is a single page application that features a number of data persistance techniques that serves as redundancy in case one of the options is not supported by the browser. The application also functions offline. The motivation behind this application was power outages and spotty internet. This application may be downloaded and used offline. I built this project to practice Progressive Web Application techniques as this is a valuable skill to have in the modern job market. Progressive Web Applications like this one are fast and able to be downloaded and used offline. They are able to use the browser cache to store data that make the application load faster and demand less internet bandwidth. I learned about the client server method of encapsulation and webpack plugin techniques. Webpack plugin takes the files in a folder and compiles them into smaller files to speed up performance.
 
 ## Installation
